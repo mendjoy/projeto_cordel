@@ -1,7 +1,7 @@
 <p align="center">
-    <img width="300"src="imagens/readme/cordel.png"/>
+    <img width="50%"src="imagens/readme/foto-literatura-cordel.png"/>
 </p>
-##
+
 <div style="text-align: justify;">
     <h1><img  height="80"src="imagens/readme/cactus.png"/>Projeto Cordel</h1>
     <p>Este projeto foi desenvolvido durante a realização do curso de HTML5 e CSS do <a href="https://www.cursoemvideo.com/">Curso em Video</a>. Com este projeto foi possivel praticar o HTML semântico uso de fontes externas, imagens de fundo fixadas e posições de imagens.</p>
